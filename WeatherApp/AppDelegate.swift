@@ -1,11 +1,5 @@
-//
-//  AppDelegate.swift
-//  WeatherApp
-//
-//  Created by Ivan Pavlov on 31.08.2022.
-//
-
 import UIKit
+
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
